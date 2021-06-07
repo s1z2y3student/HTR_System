@@ -1,0 +1,1 @@
+Directory contains main file from whiuch we can manage HTR system. It also include data preprocessing code and network.
